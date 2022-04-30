@@ -1,0 +1,5 @@
+body { font-family: sans-serif; font-size: 25px; margin: 30px; }
+h1 { font-size: 30px; }
+form div { margin-bottom: 20px; }
+label { display: block; font-weight: bold; }
+select  { font-size: 25px; padding: 5px; width: 400px; }
